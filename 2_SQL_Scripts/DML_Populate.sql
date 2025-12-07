@@ -572,7 +572,7 @@ VALUES ('A001', TO_DATE('2023-10-20', 'YYYY-MM-DD'), TO_DATE('2023-10-20 10:00:0
 
 INSERT INTO p_appointment (aid, "date", time, status, appointment_type, p_patient_pid, p_doctor_drid)
 VALUES ('A002', TO_DATE('2024-02-10', 'YYYY-MM-DD'), TO_DATE('2024-02-10 11:30:00', 'YYYY-MM-DD HH24:MI:SS'), 'Scheduled', 'Specialist', 'P002', 'DR012');
-NSERT INTO p_appointment (aid, "date", time, status, appointment_type, p_patient_pid, p_doctor_drid)
+INSERT INTO p_appointment (aid, "date", time, status, appointment_type, p_patient_pid, p_doctor_drid)
 VALUES ('A004', TO_DATE('2024-02-18', 'YYYY-MM-DD'), TO_DATE('2024-02-18 15:00:00', 'YYYY-MM-DD HH24:MI:SS'), 'Scheduled', 'Consultation', 'P004', 'DR008');
 
 INSERT INTO p_appointment (aid, "date", time, status, appointment_type, p_patient_pid, p_doctor_drid)
