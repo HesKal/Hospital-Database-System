@@ -78,7 +78,8 @@ This was one of the most challenging and rewarding projects we have undertaken. 
 This project was a successful collaboration between a dedicated team of three:
 
 *   **Hessa Khalfan** ([@Heskal](https://github.com/Heskal ))
-*   **Nourah Alghfeli**
-*   **Maryam Al Ali**
+*   **Nourah Alghfeli** ([@NourahAlghfeli](https://github.com/NourahAlghfeli ))
+*   **Maryam BinHamdah** ([@MaryamBinHamdah](https://github.com/MaryamBinHamdah ))
+
 
 Our collective effort and effective communication were key to overcoming the complexities of this project and delivering a high-quality, enterprise-ready database system.
